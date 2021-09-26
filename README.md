@@ -49,12 +49,24 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
       $ npm install -g yarn
 
 ---
+
+## Install
+
+    $ git clone https://github.com/komalbehera/Medical-Inventory-WebApp
+    $ cd Medical-Inventory-WebApp
+    
+    $ yarn install
+
 ### Executing program
 
 * How to run the program
 * Step-by-step bullets
 ```
-code blocks for commands
+npm install
+```
+
+```
+node server.js
 ```
 
 ## Authors
