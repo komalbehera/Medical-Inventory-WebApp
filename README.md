@@ -90,8 +90,6 @@ View/Update/Delete Medicines page
 
 ## Authors
 
-Contributors names and contact info
-
 Komal T Behera
 
 
