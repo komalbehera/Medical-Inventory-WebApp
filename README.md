@@ -8,6 +8,12 @@ An inventory management system designed specifically for the healthcare industry
 
 A medical inventory management system enables staff to monitor inventory from the time of purchase to consumption, and sends out alerts when an item is on the brink of expiry. It therefore ensures best practices and helps doctors avoid costly malpractice suits related to this.
 
+The web application is made using
+* NodeJS, ExpressJS for backend
+* HTML, CSS, Bootstrap for Frontend
+* PostgreSQL for Database
+
+
 ## Getting Started
 
 ## Requirements
@@ -69,6 +75,18 @@ npm install
 ```
 node server.js
 ```
+### Screenshots 
+Home-page
+![homepage](https://user-images.githubusercontent.com/58564545/134795296-2f11f466-3406-4f08-a56e-c4f30424c18c.JPG)
+
+Dashboard 
+![dashboard](https://user-images.githubusercontent.com/58564545/134795305-ffc5e3a8-98a5-4308-9b63-a099b54399f5.JPG)
+
+Add Medicines page
+![add](https://user-images.githubusercontent.com/58564545/134795308-1808b6ca-782d-4c48-9a58-75458216d0fd.JPG)
+
+View/Update/Delete Medicines page
+![display](https://user-images.githubusercontent.com/58564545/134795316-fb268190-71b2-481b-bf87-3f55d91bace1.JPG)
 
 ## Authors
 
