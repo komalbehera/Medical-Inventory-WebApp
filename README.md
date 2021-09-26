@@ -59,12 +59,13 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
+* Opem cmd and write the following code to install package.json to your local repo.
+* Run the command from the root of the directory where project is present.
+
 ```
 npm install
 ```
-
+* To start the web-app run the following command from the root of the directory where project is present.
 ```
 node server.js
 ```
